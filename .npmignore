@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# include these
+!abi/**
+!deployments/**
+
+# but not these
+deployments/hardhat
+deployments/localhost
+deployments/mainnet-fork

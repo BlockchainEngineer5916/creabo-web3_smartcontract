@@ -1,0 +1,15 @@
+{
+    "CompImplAddress": "0xcdab5ccf538512c59428e8815c3968d9ba3c8cd2",
+    "CompProxyAddress": "0xEECb3d41EAa59622837FB1825E80AC2D27995167",
+    "TimelockImplAddress": "0x3dbf9f9e9f18d77ce101a80f9904eab022c4257b",
+    "TimelockProxyAddress": "0xc8ac5a49283D22ACeBc652f80b1fB26E4b06139E",
+    "GovernorAlphaImplAddress": "0x97f65784cb260b9b776a7b766a7abe4f8060a7e5",
+    "GovernorAlphaProxyAddress": "0x2b53e96B5b6343e7fc6799014F930Eaa395493f0",
+    "IDGenerator": "0x99aA32e7656aFc3EA0d89dB009326d77D5F2c6f5",
+    "BENZTokenImplAddress": "0xeecb3d41eaa59622837fb1825e80ac2d27995167",
+    "BENZTokenProxyAddress": "0xcDAb5Ccf538512c59428E8815C3968D9BA3c8cd2",
+    "MainContractImplAddress": "0x99aa32e7656afc3ea0d89db009326d77d5f2c6f5",
+    "MainContractProxyAddress": "0xcFD43bF5C1fb8C94690b1a59A91fA980Ed5191fc",
+    "NameRegistryContractImplAddress": "0x",
+    "NameRegistryContractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+}
